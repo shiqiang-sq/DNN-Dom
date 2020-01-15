@@ -20,10 +20,11 @@
 
 4- the training scripts
    a)script file for training deep learning model: DeepLearningModelTrain.py
-   b)script file for training p-BRF model: randomForestEnsemble.py (note:  BalancedBaggingClassifier from imblearn.ensemble can be turned into a balanced random forest by passing a sklearn.tree.DecisionTreeClassifier with max_features=¡¯auto¡¯ as a base estimator.)
+   b)script file for training p-BRF model: randomForestEnsemble.py (note:  BalancedBaggingClassifier from imblearn.ensemble can be turned into a balanced random forest by passing a sklearn.tree.DecisionTreeClassifier with max_features=Â¡Â¯autoÂ¡Â¯ as a base estimator.)
 
 **************************************************************************************************************
 If there are some questions, please contact us: yanw@hust.edu.cn, zdxue@hust.edu.cn or shiqiang@hust.edu.cn.
 **************************************************************************************************************
 
-   
+  NOTE: The predicted model file: balanced_RF-100.model is too large, we upload this model in BaiDuYun.
+        The download link is https://pan.baidu.com/s/1C2oFVU4LSOHxeyuBbFFoZAï¼Œ and the password is ee2j
